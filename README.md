@@ -215,7 +215,7 @@ Wazuh Rule 60122
 
 Shows the underlying Wazuh detection for the Windows failed authentication event.
 
-![Wazuh Rule 60122](screenshots/Rule.id_60122.png)
+![Wazuh Rule 60122](screenshots/ruleid_60122.png)
 
 Custom Rule 100100
 
