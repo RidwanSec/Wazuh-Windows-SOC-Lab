@@ -224,6 +224,11 @@ Custom Rule 100100
 
 Shows the custom correlation rule successfully generating an alert after the configured threshold was reached.
 
+![Wazuh Rule 60122](screenshots/new_3failed_login.png)
+
+![Wazuh Rule 60122](screenshots/new_3failed_login.png)
+
+
 Alert Investigation
 
 Shows the resulting alert details and event information used to validate the detection.
