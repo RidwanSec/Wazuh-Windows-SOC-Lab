@@ -207,15 +207,18 @@ This lab demonstrated the workflow of collecting endpoint telemetry, developing 
 
 
 
+
+
 Screenshots
 
 The following screenshots provide visual evidence of the lab configuration, monitoring environment, detection logic, and investigation results.
+</> Markdown
 
 Wazuh Dashboard
 
 Shows the Wazuh monitoring environment and active Windows endpoint.
 
-screenshots/wazuh_deployed.png
+![Wazuh Dashboard](screenshots/wazuh_deployed.png)
 
 Active Windows Agent
 
