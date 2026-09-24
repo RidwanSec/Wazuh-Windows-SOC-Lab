@@ -18,37 +18,9 @@ The goal of the lab is to demonstrate practical SOC monitoring and detection eng
 The lab consists of an Ubuntu-based Wazuh server monitoring a Windows 11 endpoint through the Wazuh agent.
 
 
-┌─────────────────────────┐
-│   Ubuntu 24.04 LTS      │
-│   Wazuh Server 4.14.7   │
-│                         │
-│ Wazuh Manager           │
-│ Wazuh Indexer           │
-│ Wazuh Dashboard         │
-└────────────┬────────────┘
-             │
-             │ Security telemetry
-             ▼
-┌─────────────────────────┐
-│   Windows 11 VM         │
-│   SOC_WINDOWS            │
-│                         │
-│ Windows Security Logs   │
-│ Event ID 4625           │
-│ Failed authentication   │
-└─────────────────────────┘
-             │
-             ▼
-       Wazuh Rule 60122
-             │
-             ▼
-       Custom Rule 100100
-             │
-             ▼
-    3 attempts / 5 minutes
-             │
-             ▼
-       Detection Alert
+![Lab Architecture](screenshots/-.png)
+
+
 
 ### Lab Components
 
