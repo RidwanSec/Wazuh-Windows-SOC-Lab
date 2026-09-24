@@ -18,7 +18,7 @@ The goal of the lab is to demonstrate practical SOC monitoring and detection eng
 The lab consists of an Ubuntu-based Wazuh server monitoring a Windows 11 endpoint through the Wazuh agent.
 
 
-![Lab Architecture](screenshots/-.png)
+![Lab Architecture](screenshots/defeecf7-2f60-4a91-a7a1-3a61590ba84b.png)
 
 
 
