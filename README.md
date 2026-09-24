@@ -226,7 +226,11 @@ Shows the custom correlation rule successfully generating an alert after the con
 
 ![Wazuh Rule 60122](screenshots/new_3failed_login.png)
 
-![Wazuh Rule 60122](screenshots/new_3failed_login.png)
+![Wazuh Rule 60122](screenshots/new_3failed_login2.png)
+
+![Wazuh Rule 60122](screenshots/new_3failed_login3.png)
+
+![Wazuh Rule 60122](screenshots/new_3failed_login4.png)
 
 
 Alert Investigation
