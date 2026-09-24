@@ -234,7 +234,7 @@ Shows the SOC_WINDOWS endpoint successfully connected to the Wazuh server.
 
 ### Windows Event ID 4625
 
-Shows the failed authentication event generated on the Windows endpoint.
+Shows the failed authentication event generated in the Windows Security event log on the Windows endpoint.
 
 ![Windows Event ID 4625](screenshots/eventvwr_failed_login.png)
 
@@ -242,6 +242,8 @@ Shows the failed authentication event generated on the Windows endpoint.
 Wazuh Rule 60122
 
 Shows the underlying Wazuh detection for the Windows failed authentication event.
+
+![Wazuh Rule 60122](screenshots/wazuh_rule_edit3.png)
 
 Custom Rule 100100
 
