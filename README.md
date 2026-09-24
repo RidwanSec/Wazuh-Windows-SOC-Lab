@@ -215,6 +215,8 @@ Wazuh Dashboard
 
 Shows the Wazuh monitoring environment and active Windows endpoint.
 
+screenshots/wazuh_deployed.png
+
 Active Windows Agent
 
 Shows the SOC_WINDOWS endpoint successfully connected to the Wazuh server.
