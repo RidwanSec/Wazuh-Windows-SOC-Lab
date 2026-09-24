@@ -225,7 +225,7 @@ Shows the Wazuh monitoring environment and active Windows endpoint.
 Active Windows Agent
 
 Shows the SOC_WINDOWS endpoint successfully connected to the Wazuh server.
-
+![Active Windows Agent](screenshots/wazuh_deployed2.png)
 Windows Event ID 4625
 
 Shows the failed authentication event generated on the Windows endpoint.
