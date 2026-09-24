@@ -216,19 +216,28 @@ The following screenshots provide visual evidence of the lab configuration, moni
 
 </> Markdown
 
-###Wazuh Dashboard
+### Wazuh Dashboard
 
 Shows the Wazuh monitoring environment and active Windows endpoint.
 
 ![Wazuh Dashboard](screenshots/wazuh_deployed.png)
 
-Active Windows Agent
+
+
+
+### Active Windows Agent
 
 Shows the SOC_WINDOWS endpoint successfully connected to the Wazuh server.
+
 ![Active Windows Agent](screenshots/wazuh_deployed2.png)
-Windows Event ID 4625
+
+
+### Windows Event ID 4625
 
 Shows the failed authentication event generated on the Windows endpoint.
+
+![Windows Event ID 4625](eventvwr_failed_login)
+
 
 Wazuh Rule 60122
 
